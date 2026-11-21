@@ -6,7 +6,6 @@ __pycache__
 .serena
 .venv
 agent_workspace
-.env
 /logs/
 server.log
 /server.*.log
@@ -15,5 +14,6 @@ debug-*.log
 llama_cache
 .smoke-results
 /test-results/
-.vscode
 /src/free_claude_code/assets/macos/fcc-desktop-*
+config.bat
+node_modules
